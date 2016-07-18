@@ -1,0 +1,14 @@
+{
+  "parser": "babel-eslint",
+  "parserOptions": {
+    "sourceType": "module",
+    "allowImportExportEverywhere": false
+  },
+  "plugins": [
+    "babel"
+  ],
+  "rules": {
+    "strict": 0,
+    "babel/generator-star-spacing": 1
+  }
+}
