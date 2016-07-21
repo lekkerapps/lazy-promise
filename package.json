@@ -1,5 +1,5 @@
 {
-  "name": "lekkerapps-lazy-promise",
+  "name": "lekkerapps.lazy-promise",
   "version": "1.0.0",
   "description": "Lazy promise evaluation",
   "main": "dist/lazy-promise.es5.js",
